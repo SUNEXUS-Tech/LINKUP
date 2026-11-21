@@ -1,0 +1,8 @@
+# Keep private membership data out of this public repository
+members/
+registrations/
+linkcards/
+*.csv
+*.xlsx
+*.json
+.env
